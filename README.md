@@ -51,3 +51,4 @@ Get Product Details : Get Request
 ## 4. Search, Filter and Pagination
 
 ## 5. Backend User and Password Authentication
+`bcryptjs`, `jsonwebtoken`, `nodemailer`, `cookie-parser` and `body-parser`  
