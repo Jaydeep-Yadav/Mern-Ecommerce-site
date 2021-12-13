@@ -47,3 +47,7 @@ Get Product Details : Get Request
 
 ### Error handled: 
 `MongoDB id error`, `Uncaught Exception` and `Unhandled Promise Rejection`
+
+## 4. Search, Filter and Pagination
+
+## 5. Backend User and Password Authentication
