@@ -18,8 +18,8 @@ PS : `-g` for global install
 
 # Running Project
 
-**For localhost deployment** - `node ./index.js`
+**For localhost deployment** - `npm run dev`
 
-## or
 
-**For localhost deployment** - `nodemon ./index.js`
+## Verify API working with Postman by Sending Get request to 
+ `http://localhost:4000/api/v1/products`
