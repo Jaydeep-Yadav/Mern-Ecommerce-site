@@ -26,3 +26,19 @@ PS : `-g` for global install
 
 ## 1. Verify Connection and API working with Postman by Sending Get request to 
  `http://localhost:4000/api/v1/products`
+
+## 2. Added CRUD for Products in productController
+Create Product : Post Request
+ `http://localhost:4000/api/v1/product/new`
+
+Get All Products : Get Request
+`http://localhost:4000/api/v1/products`
+
+Update Product : Put Request
+ `http://localhost:4000/api/v1/product/:id`
+
+Delete Product : Delete Request
+`http://localhost:4000/api/v1/product/:id`
+
+Get Product Details : Get Request
+`http://localhost:4000/api/v1/product/:id`
