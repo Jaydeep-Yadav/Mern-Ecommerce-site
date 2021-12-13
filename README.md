@@ -21,5 +21,8 @@ PS : `-g` for global install
 **For localhost deployment** - `npm run dev`
 
 
-## Verify API working with Postman by Sending Get request to 
+
+# Developent Timeline
+
+## 1. Verify Connection and API working with Postman by Sending Get request to 
  `http://localhost:4000/api/v1/products`
