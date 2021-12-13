@@ -44,3 +44,6 @@ Get Product Details : Get Request
 `http://localhost:4000/api/v1/product/:id`
 
 ## 3. Backend Error Handling
+
+### Error handled: 
+`MongoDB id error`, `Uncaught Exception` and `Unhandled Promise Rejection`
