@@ -33,6 +33,6 @@ module.exports = (err, req, resp, next) => {
     resp.status(err.statusCode).json({
         success : false,
         message : err.message,
-        error : err.stack //To see the full error stack
+        // error : err.stack //To see the full error stack
     })
 };
