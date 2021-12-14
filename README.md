@@ -52,3 +52,5 @@ Get Product Details : Get Request
 
 ## 5. Backend User and Password Authentication
 `bcryptjs`, `jsonwebtoken`, `nodemailer`, `cookie-parser` and `body-parser`  
+
+## 6. Backend User Routes APIs
